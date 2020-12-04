@@ -1,2 +1,1 @@
-Every day from the frist december till christmas eve Scrimba will provide the community with a coding challange which i am going to solve.
-
+[![Chunky-Monkey-Modify-Array-Two-Dimensional.png](https://i.postimg.cc/9MHj3JxF/Chunky-Monkey-Modify-Array-Two-Dimensional.png)](https://postimg.cc/B8pzHc9d)
