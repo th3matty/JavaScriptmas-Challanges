@@ -8,5 +8,5 @@ Every day from the frist december till christmas eve Scrimba will provide the co
 >Each branch has a Readme file where you can see the challange.
 >To see the solution head to "main.js" and to confirm it by jasmine you can easily open the html file in the browser.
 
-You can also follow the Scrimba Link which i will attach to every challange in the Readme. Copy past my solution from "main.js" later on.
+>> You can also follow the Scrimba Link which i will attach to every challange in the Readme. Copy past my solution from "main.js" later on.
 
