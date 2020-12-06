@@ -1,12 +1,6 @@
 # JavaScriptmas-Challanges
 
-Every day from the frist december till christmas eve Scrimba will provide the community with a coding challange which i am going to solve.
+[![Sort-By-Length.png](https://i.postimg.cc/Ss9XJ3GF/Sort-By-Length.png)](https://postimg.cc/S2yQPZ5D)
 
 
->For every Challange i will push a new branch.
-
->Each branch has a Readme file where you can see the challange.
->To see the solution head to "main.js" and to confirm it by jasmine you can easily open the html file in the browser.
-
->> You can also follow the Scrimba Link which i will attach to every challange in the Readme. Copy past my solution from "main.js" later on.
-
+>> https://scrimba.com/learn/adventcalendar/cyw87yuK?utm_source=newsletter&utm_medium=email&utm_campaign=javascriptmas_day6&purge=true&a=1932.0.8.L1_1-2_71
