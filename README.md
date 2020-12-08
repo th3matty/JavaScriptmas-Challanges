@@ -1,12 +1,8 @@
 #  :christmas_tree: JavaScriptmas-Challanges  :christmas_tree: 
 
-Every day from the frist december till christmas eve Scrimba provides the community with a coding challange which i am going to solve.
+For this challange we were supposed to create a **"rolling dice"** which displays a random number.
 
+> you can directly visit this page for a demo:
+https://scrimba.com/scrim/co7af4a949109b68c0ab0edf9
 
->For every Challange i will push a new branch.
-
->Each branch has a Readme file where you can see the challange.
->To see the solution head to "main.js" and to confirm it by jasmine you can easily open the html file in the browser.
-
->> *You can also follow the **Scrimba Link** which i will attach to the readme file for every challange. Copy paste my solution from "main.js" later on and hit the "RUN-Button".*
-
+> or clone/download the repo/branch and run it locally.
