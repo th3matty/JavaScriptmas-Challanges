@@ -1,0 +1,45 @@
+body {
+    background-color: #AEB8FE;
+    display: flex;
+    /* flex-direction: column; */
+}
+
+.dice {
+    position: absolute;
+    width: 90px;
+    height: 90px;
+    border-radius: 10px;
+    background-color: #EFE5DC;
+    margin: 100px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.dice div {
+    width: 20px;
+    height: 20px;
+    margin: 5px;
+}
+.dice:hover {
+    box-shadow: 3px 3px 10px 0px rgba(0,0,0, 0.2);
+    transform: scale(1.04);
+}
+
+.dot {
+    width: 10px;
+    height: 10px;
+    margin: auto;
+    border-radius: 6px;
+    background-color: black;
+    transition: 0.5s;
+}
+
+.numberDice{
+    width: 100%;
+    text-align: center;
+    font-size: 2rem;
+    
+}
+.hide {
+    background-color: #EFE5DC;
+}
