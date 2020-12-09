@@ -3,7 +3,7 @@
 
 [![Sum-Odd-Fibonacci.png](https://i.postimg.cc/28DzLKGf/Sum-Odd-Fibonacci.png)](https://postimg.cc/dD5MzngW)
 
-> https://scrimba.com/learn/adventcalendar/cmpWaRcW?utm_source=newsletter&utm_medium=email&utm_campaign=javascriptmas_day9&purge=true&a=154.0.8.L9_47
+> *clone or visit directly with my solution this link*
 
-
+> https://scrimba.com/scrim/coe6a40d9bdf89923c3738a83
 
