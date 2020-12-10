@@ -1,12 +1,10 @@
 #  :christmas_tree: JavaScriptmas-Challanges  :christmas_tree: 
 
-Every day from the frist december till christmas eve Scrimba provides the community with a coding challange which i am going to solve.
 
+[![Adjacent-Element.png](https://i.postimg.cc/52VQ1sg4/Adjacent-Element.png)](https://postimg.cc/Wh51w6xC)
 
->For every Challange i will push a new branch.
+> *clone or visit directly this link with my solution:*
 
->Each branch has a Readme file where you can see the challange.
->To see the solution head to "main.js" and to confirm it by jasmine you can easily open the html file in the browser.
+> https://scrimba.com/scrim/co4884e05862c301f9d0d1904
 
->> *You can also follow the **Scrimba Link** which i will attach to the readme file for every challange. Copy paste my solution from "main.js" later on and hit the "RUN-Button".*
 
