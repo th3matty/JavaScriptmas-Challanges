@@ -1,12 +1,9 @@
 #  :christmas_tree: JavaScriptmas-Challanges  :christmas_tree: 
 
-Every day from the frist december till christmas eve Scrimba provides the community with a coding challange which i am going to solve.
+[![Avoid-Obstacles.png](https://i.postimg.cc/TwRQ9rLc/Avoid-Obstacles.png)](https://postimg.cc/d7x8QZ97)
 
+> *clone or visit directly this link with my solution:*
 
->For every Challange i will push a new branch.
+> https://scrimba.com/scrim/co303450eb2908e9b41c8fdbb
 
->Each branch has a Readme file where you can see the challange.
->To see the solution head to "main.js" and to confirm it by jasmine you can easily open the html file in the browser.
-
->> *You can also follow the **Scrimba Link** which i will attach to the readme file for every challange. Copy paste my solution from "main.js" later on and hit the "RUN-Button".*
-
+[![Avoid-Obstacles2.png](https://i.postimg.cc/B6MpwX2f/Avoid-Obstacles2.png)](https://postimg.cc/YGLQv2Xd)
