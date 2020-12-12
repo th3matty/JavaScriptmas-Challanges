@@ -1,10 +1,7 @@
 function avoidObstacles(nums) {
-    
-    // sort the array to
-    let sorted = nums.sort()
-    // loop trough it and find the smallest number
-    let smallestNumber = sorted.map((elem) => elem+1).find(elem => elem+1)
-    return smallestNumber;
+    for (i = 1; i <= Math.max(...nums) + 1; i++) {
+        if(nums.every(el => el % i !== 0)) return i
+    }
 }
 
 
