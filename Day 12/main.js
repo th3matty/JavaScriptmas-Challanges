@@ -4,9 +4,15 @@ function validTime(str) {
     const hour = parseInt(splitted[0])
     const min = parseInt(splitted[1])    
     
-    let result = hour <= 24 && min <= 60? true : false
+    let result = hour < 24 && min < 60? true : false
     return result
    
+}
+// solution 2:
+
+function validTime(str){
+    const [hour, minute] = str.split(":").map(el => parseInt(el))
+    return hour >= 0 && hours < 24 && minutes >= 0 && minutes <60
 }
 
 
