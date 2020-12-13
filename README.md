@@ -11,6 +11,7 @@ Every day from the frist december till christmas eve Scrimba provides the commun
 
 >> *...you can open the **Scrimba Link** which i will attach to the readme file for every challange. Copy paste my solution from "main.js" later on and hit the "RUN-Button".*
 
+<<<<<<< HEAD
 > :eyes: List of Content:  :clipboard:
 
 1.  Candies
@@ -26,3 +27,6 @@ Every day from the frist december till christmas eve Scrimba provides the commun
 11. Avoid Obstacles
 12. Valid Time
 13. Extract Each Kth
+=======
+# :eyes: List of Content:  :clipboard:
+>>>>>>> 505ae8c70aa2194608d0c18ec6d1f2509f54347d
