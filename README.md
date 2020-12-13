@@ -6,8 +6,9 @@ Every day from the frist december till christmas eve Scrimba provides the commun
 >For every Challange i will push a new branch.
 
 >Each branch has a Readme file where you can see the challange.
->To see the solution head to "main.js" and to confirm it by jasmine you can easily open the html file in the browser.
+>Those challanges are tested by jasmine.
+> You can either download the repo and start open a liveserver or.... ==>
 
->> *You can also follow the **Scrimba Link** which i will attach to the readme file for every challange. Copy paste my solution from "main.js" later on and hit the "RUN-Button".*
+>> *...you can open the **Scrimba Link** which i will attach to the readme file for every challange. Copy paste my solution from "main.js" later on and hit the "RUN-Button".*
 
 > :eyes: # List of Content:  :clipboard:
