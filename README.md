@@ -10,3 +10,4 @@ Every day from the frist december till christmas eve Scrimba provides the commun
 
 >> *You can also follow the **Scrimba Link** which i will attach to the readme file for every challange. Copy paste my solution from "main.js" later on and hit the "RUN-Button".*
 
+> :eyes: # List of Content:  :clipboard:
