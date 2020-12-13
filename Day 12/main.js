@@ -1,8 +1,8 @@
 function validTime(str) {
     //  write code here.
-    let splitted = str.split(":")
-    const hour = parseInt(splitted[0])
-    const min = parseInt(splitted[1])    
+    const [hour , min] = str.split(":");    
+    
+    if(isNaN(hour)|| isNaN(min)) return false;
     
     let result = hour < 24 && min < 60? true : false
     return result
