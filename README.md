@@ -27,4 +27,5 @@ Every day from the frist december till christmas eve Scrimba provides the commun
 12. Valid Time
 13. Extract Each Kth
 14. Maximal Adjacent Difference
+15. Javascript Carousel
 
