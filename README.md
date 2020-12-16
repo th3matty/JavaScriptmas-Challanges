@@ -1,8 +1,8 @@
 #  :christmas_tree: JavaScriptmas-Challanges  :christmas_tree: 
 
-[![deposit.png](https://i.postimg.cc/XN2DdswG/deposit.png)](https://postimg.cc/BtKgGc74)
+[![candies.png](https://i.postimg.cc/nLKRVcnh/candies.png)](https://postimg.cc/Y49fb745)
 
 > *clone or visit directly this link with my solution:*
 
-> https://scrimba.com/scrim/co97442fb94339eb52708b0f6
+> https://scrimba.com/scrim/co598448cba9aea148f606d5f
 
