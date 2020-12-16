@@ -2,4 +2,6 @@
 
 [![deposit.png](https://i.postimg.cc/XN2DdswG/deposit.png)](https://postimg.cc/BtKgGc74)
 
->> https://scrimba.com/learn/adventcalendar/-javascript-challenge-deposit-profit-introduction-cPk7yptk?a=386.0.8.L15_31
+> *clone or visit directly this link with my solution:*
+
+> https://scrimba.com/scrim/co97442fb94339eb52708b0f6
