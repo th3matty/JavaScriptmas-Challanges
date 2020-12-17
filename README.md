@@ -29,4 +29,5 @@ Every day from the frist december till christmas eve Scrimba provides the commun
 14. Maximal Adjacent Difference
 15. Javascript Carousel
 16. Insert Dashes
+17. Different symbols naive
 
