@@ -30,4 +30,4 @@ Every day from the frist december till christmas eve Scrimba provides the commun
 15. Javascript Carousel
 16. Insert Dashes
 17. Different symbols naive
-
+18. Array previous less
