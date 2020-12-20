@@ -32,3 +32,4 @@ Every day from the frist december till christmas eve Scrimba provides the commun
 17. Different symbols naive
 18. Array previous less
 19. Alphabet Subsequence
+20. Domain Type
