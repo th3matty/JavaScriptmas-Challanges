@@ -4,8 +4,8 @@ const tweetBtn = document.getElementById("btn");
 
 let charsKeyCode = [];
 let result= [];
-let textVal = []
-// eventListener if user types something in the box
+
+// eventListener 
 typeField.addEventListener("keydown", e => {
     let keyCodes = Array(e.code);    
     charsKeyCode.push(...keyCodes);
@@ -34,9 +34,11 @@ typeField.addEventListener("keydown", e => {
    return result;
 })
 
-// tweetBtn.addEventListener("click", e => {
-//     console.log("after tweet click:",result.length)
-// })
+
+tweetBtn.addEventListener("click", () => {   
+   const textValue = typeField.value;
+   window.open(`https://twitter.com/intent/tweet?text=${textValue}`,'__blank');
+});
 
 /*
 DESCRIPTION:
