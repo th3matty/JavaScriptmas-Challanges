@@ -35,3 +35,4 @@ Every day from the frist december till christmas eve Scrimba provides the commun
 20. Domain Type
 21. Sum of 2
 22. Extract Matrix Column
+23. Social Media input challenge
