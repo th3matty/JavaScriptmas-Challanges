@@ -36,3 +36,4 @@ Every day from the frist december till christmas eve Scrimba provides the commun
 21. Sum of 2
 22. Extract Matrix Column
 23. Social Media input challenge
+24. Test Your Agility
