@@ -1,6 +1,6 @@
 #  :christmas_tree: JavaScriptmas-Challanges  :christmas_tree: 
 
-Every day from the frist december till christmas eve Scrimba provides the community with a coding challange which i am going to solve.
+Every day from the frist december till christmas eve Scrimba provides the community with  coding challenges.
 
 
 >For every Challange i will push a new branch.
